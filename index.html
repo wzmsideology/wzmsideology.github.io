@@ -3,14 +3,16 @@
 <title>高中生意识形态调查</title>
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 </head>
+<script type="application/javascript" src="ideology.js"></script>
 <script type="text/javascript">
 	function add() {
 		var id = document.getElementById("id").value;
 		if(id == "" || isNaN(Number(id))){ 
-			alert('请输入正确的序号！')
+			alert('请输入正确的序号！');
 		}
 		else{
-			alert('公测结果暂未发布，请耐心等待！')
+			var result=ideology[id].name+' '+ideology[id].stats.econ+' '+ideology[id].stats.dipl+' '+ideology[id].stats.govt+' '+ideology[id].stats.scty;
+		 	alert(result);
 		}
 	}
 </script>
@@ -161,8 +163,8 @@ tr.odd-row{
         <td>44.8</td>
     </tr>
 </table>
-<h3 style="font-size: 40px;">公测数据暂未发布</h3>
-<form>
+<h3 style="font-size: 40px;">公测结果缓慢更新中~</h3>
+<form style="font-size: 200%">
 请输入你的序号： <input type="text" name="id" id="id">
 <input type="submit" onclick="add()" value="查询">
 </form>
