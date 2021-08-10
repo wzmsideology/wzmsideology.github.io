@@ -1,5 +1,5 @@
 ideology = [
-   {
+{
 "name": "中间派",
 "stats": {
         "econ": 59.6,
@@ -63,12 +63,12 @@ ideology = [
 }
 },
 {
-"name": "中间派",
+"name": "数据无效",
 "stats": {
-        "econ": 41.7,
-        "dipl": 50.0,
-        "govt": 54.7,
-        "scty": 51.6
+        "econ": "",
+        "dipl": "",
+        "govt": "",
+        "scty": ""
 }
 },
 {
@@ -87,6 +87,96 @@ ideology = [
         "dipl": 53.9,
         "govt": 36.3,
         "scty": 39.6
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 62.2,
+        "dipl": 49.4,
+        "govt": 46.1,
+        "scty": 38.8
+}
+},
+{
+"name": "自由主义",
+"stats": {
+        "econ": 60.9,
+        "dipl": 45.6,
+        "govt": 54.7,
+        "scty": 39.6
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 60.9,
+        "dipl": 43.3,
+        "govt": 42.6,
+        "scty": 40.5
+}
+},
+{
+"name": "左翼民粹主义",
+"stats": {
+        "econ": 64.7,
+        "dipl": 51.7,
+        "govt": 39.1,
+        "scty": 49.1
+}
+},
+{
+"name": "基督教民主主义",
+"stats": {
+        "econ": 67.9,
+        "dipl": 40.6,
+        "govt": 48.4,
+        "scty": 46.1
+}
+},
+{
+"name": "基督教民主主义",
+"stats": {
+        "econ": 68.6,
+        "dipl": 47.2,
+        "govt": 41.4,
+        "scty": 47.3
+}
+},
+{
+"name": "数据无效",
+"stats": {
+        "econ": "",
+        "dipl": "",
+        "govt": "",
+        "scty": ""
+}
+},
+{
+"name": "神权社会主义",
+"stats": {
+        "econ": 75.0,
+        "dipl": 45.0,
+        "govt": 38.7,
+        "scty": 52.5
+}
+},
+{
+"name": "左翼民粹主义",
+"stats": {
+        "econ": 62.2,
+        "dipl": 54.4,
+        "govt": 41.0,
+        "scty": 43.1
+}
+},
+{
+"name": "社会民主主义",
+"stats": {
+        "econ": 70.5,
+        "dipl": 23.9,
+        "govt": 68.0,
+        "scty": 27.1
 }
 }
 ];
