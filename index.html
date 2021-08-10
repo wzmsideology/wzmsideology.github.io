@@ -3,6 +3,17 @@
 <title>高中生意识形态调查</title>
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 </head>
+<script type="text/javascript">
+	function add() {
+		var id = document.getElementById("id").value;
+		if(id == "" || isNaN(Number(id))){ 
+			alert('请输入正确的序号！')
+		}
+		else{
+			alert('公测结果暂未发布，请耐心等待！')
+		}
+	}
+</script>
 <body>
 <style type="text/css">
 tr.odd-row{
@@ -10,7 +21,7 @@ tr.odd-row{
 }
 </style>
 <h3 style="font-size: 50px;">数据正在更新，敬请期待:)</h3>
-<h4 style="font-size: 30px;">说明：经济值越大，越偏向平等（而非市场）；外交值越大，越偏向国家（而非世界）；政治值越大，越偏向自由（而非威权）；社会值越大，越偏向传统（而非进步）</h3>
+<h4 style="font-size: 30px;">说明：经济值越大，越偏向平等（而非市场）；外交值越大，越偏向国家（而非世界）；政治值越大，越偏向自由（而非威权）；社会值越大，越偏向传统（而非进步）</h4>
 <table style="font-size: 200%; text-align: center;">
     <caption style="font-size: 40px; font-weight: 700;">内测结果</caption>
     <tr>
@@ -151,6 +162,11 @@ tr.odd-row{
     </tr>
 </table>
 <h3 style="font-size: 40px;">公测数据暂未发布</h3>
+<form>
+请输入你的序号： <input type="text" name="id" id="id">
+<input type="submit" onclick="add()" value="查询">
+</form>
 <p style="font-size: 20px; color: red;">注：由于一些不可抗因素，以上数据可能出现一些错误，小组成员正在努力核验中~</p>
+<p style="font-size: 20px;">如有任何疑问或建议，欢迎联系<a href="mailto:wzmsideology@protonmail.com">wzmsideology@protonmail.com</a></p>
 </body>
 </html>
