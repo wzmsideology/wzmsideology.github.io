@@ -477,12 +477,12 @@ ideology = [
 }
 },
 {
-"name": "中间派",
+"name": "数据无效",
 "stats": {
-        "econ": 52.6,
-        "dipl": 58.3,
-        "govt": 46.5,
-        "scty": 56.7
+        "econ": "",
+        "dipl": "",
+        "govt": "",
+        "scty": ""
 }
 },
 {
