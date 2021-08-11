@@ -11,7 +11,7 @@
 			alert('请输入正确的序号！');
 		}
 		else{
-			var result=ideology[id-1].name+'\n经济 '+ideology[id-1].stats.econ+'\n外交 '+ideology[id-1].stats.dipl+'\n政治 '+ideology[id-1].stats.govt+'\n社会 '+ideology[id-1].stats.scty;
+			var result=ideology[id-1].name+'\n经济 '+ideology[id-1].stats.econ.toFixed(1)+'\n外交 '+ideology[id-1].stats.dipl.toFixed(1)+'\n政治 '+ideology[id-1].stats.govt.toFixed(1)+'\n社会 '+ideology[id-1].stats.scty.toFixed(1);
 		 	alert(result);
 		}
 	}
