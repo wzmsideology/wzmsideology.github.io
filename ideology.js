@@ -448,5 +448,122 @@ ideology = [
         "govt": 42.2,
         "scty": 46.5
 }
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 56.4,
+        "dipl": 45.0,
+        "govt": 52.3,
+        "scty": 47.0
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 62.8,
+        "dipl": 48.3,
+        "govt": 47.3,
+        "scty": 44.6
+}
+},
+{
+"name": "数据无效",
+"stats": {
+        "econ": "",
+        "dipl": "",
+        "govt": "",
+        "scty": ""
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 52.6,
+        "dipl": 58.3,
+        "govt": 46.5,
+        "scty": 56.7
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 59.6,
+        "dipl": 53.3,
+        "govt": 44.5,
+        "scty": 48.6
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 60.3,
+        "dipl": 45.0,
+        "govt": 53.5,
+        "scty": 44.9
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 59.6,
+        "dipl": 46.7,
+        "govt": 51.6,
+        "scty": 45.9
+}
+},
+{
+"name": "民主社会主义",
+"stats": {
+        "econ": 67.9,
+        "dipl": 57.2,
+        "govt": 46.1,
+        "scty": 40.8
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 53.8,
+        "dipl": 55.0,
+        "govt": 48.4,
+        "scty": 42.5
+}
+},
+{
+"name": "社会自由主义",
+"stats": {
+        "econ": 64.7,
+        "dipl": 39.4,
+        "govt": 53.9,
+        "scty": 38.8
+}
+},
+{
+"name": "民主社会主义",
+"stats": {
+        "econ": 73.1,
+        "dipl": 35.0,
+        "govt": 55.5,
+        "scty": 38.8
+}
+},
+{
+"name": "数据无效",
+"stats": {
+        "econ": "",
+        "dipl": "",
+        "govt": "",
+        "scty": ""
+}
+},
+{
+"name": "社会自由主义",
+"stats": {
+        "econ": 62.8,
+        "dipl": 38.9,
+        "govt": 53.5,
+        "scty": 38.4
+}
 }
 ];
