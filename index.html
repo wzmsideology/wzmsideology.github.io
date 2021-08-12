@@ -7,10 +7,16 @@
 <script type="text/javascript">
 	function add() {
 		var id = document.getElementById("id").value;
-		if(id == "" || isNaN(Number(id))){ 
+		if (id == "" || isNaN(Number(id)) || id <=0){ 
 			alert('请输入正确的序号！');
 		}
-		else{
+        else if (id > 64) {
+            alert("数据暂未公布，敬请期待！");
+        }
+		else if (ideology[id-1].name == "数据无效"){
+            alert("数据无效");
+        }
+        else {
 			var result=ideology[id-1].name+'\n经济 '+ideology[id-1].stats.econ.toFixed(1)+'\n外交 '+ideology[id-1].stats.dipl.toFixed(1)+'\n政治 '+ideology[id-1].stats.govt.toFixed(1)+'\n社会 '+ideology[id-1].stats.scty.toFixed(1);
 		 	alert(result);
 		}
