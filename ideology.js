@@ -718,5 +718,194 @@ ideology = [
         "govt": 52.3,
         "scty": 48.9
 }
+},
+{
+"name": "自由主义",
+"stats": {
+        "econ": 50.0,
+        "dipl": 31.1,
+        "govt": 63.3,
+        "scty": 33.6
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 64.1,
+        "dipl": 52.2,
+        "govt": 46.5,
+        "scty": 40.9
+}
+},
+{
+"name": "民主社会主义",
+"stats": {
+        "econ": 82.1,
+        "dipl": 44.4,
+        "govt": 48.8,
+        "scty": 35.8
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 58.3,
+        "dipl": 48.3,
+        "govt": 44.9,
+        "scty": 52.3
+}
+},
+{
+"name": "社会自由主义",
+"stats": {
+        "econ": 66.7,
+        "dipl": 43.3,
+        "govt": 52.7,
+        "scty": 40.9
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 66.0,
+        "dipl": 50.0,
+        "govt": 47.3,
+        "scty": 44.6
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 60.3,
+        "dipl": 45.6,
+        "govt": 51.6,
+        "scty": 40.5
+}
+},
+{
+"name": "自由派",
+"stats": {
+        "econ": 54.5,
+        "dipl": 46.1,
+        "govt": 54.3,
+        "scty": 30.7
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 65.4,
+        "dipl": 47.8,
+        "govt": 46.5,
+        "scty": 39.6
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 66.7,
+        "dipl": 47.2,
+        "govt": 49.6,
+        "scty": 39.5
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 57.7,
+        "dipl": 46.1,
+        "govt": 53.1,
+        "scty": 44.9
+}
+},
+{
+"name": "左翼民粹主义",
+"stats": {
+        "econ": 70.5,
+        "dipl": 56.1,
+        "govt": 39.1,
+        "scty": 45.6
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 62.8,
+        "dipl": 42.8,
+        "govt": 45.7,
+        "scty": 43.9
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 69.2,
+        "dipl": 48.9,
+        "govt": 45.3,
+        "scty": 45.2
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 67.9,
+        "dipl": 52.8,
+        "govt": 48.4,
+        "scty": 42.2
+}
+},
+{
+"name": "自由主义",
+"stats": {
+        "econ": 61.5,
+        "dipl": 40.6,
+        "govt": 62.1,
+        "scty": 47.4
+}
+},
+{
+"name": "民主社会主义",
+"stats": {
+        "econ": 70.5,
+        "dipl": 42.2,
+        "govt": 53.9,
+        "scty": 38.4
+}
+},
+{
+"name": "民主社会主义",
+"stats": {
+        "econ": 69.2,
+        "dipl": 47.8,
+        "govt": 46.5,
+        "scty": 40.9
+}
+},
+{
+"name": "民主社会主义",
+"stats": {
+        "econ": 84.0,
+        "dipl": 45.6,
+        "govt": 52.0,
+        "scty": 30.7
+}
+},
+{
+"name": "中间派",
+"stats": {
+        "econ": 64.1,
+        "dipl": 47.2,
+        "govt": 48.4,
+        "scty": 46.9
+}
+},
+{
+"name": "左翼民粹主义",
+"stats": {
+        "econ": 71.2,
+        "dipl": 55.6,
+        "govt": 39.1,
+        "scty": 36.2
+}
 }
 ];
