@@ -10,8 +10,8 @@
 		if (id == "" || isNaN(Number(id)) || id <=0){ 
 			alert('请输入正确的序号！');
 		}
-        else if (id > 139) {
-            alert("数据暂未公布，敬请期待！");
+        else if (id > 140) {
+            alert("序号不存在！");
         }
 		else if (ideology[id-1].name == "数据无效"){
             alert("数据无效");
@@ -44,7 +44,7 @@ p{
 }
 </style>
 <h3 style="font-size: 50px;">高中生意识形态调查结果查询</h3>
-<p style="font-size: 20px; color: red;">现已可查询前139位数据，<span style="font-weight: 700;">今晚八点</span>停止收集问卷</p>
+<p style="font-size: 20px; color: red;">问卷已停止收集，所有数据公布完毕，届时将于本网站发布调查报告，敬请关注！</p>
 <h4 style="font-size: 30px;">说明：<br>经济值越大，越偏向<span style="color: red;">平等</span>（而非市场）<br>外交值越大，越偏向<span style="color: red;">国家</span>（而非世界）<br>政治值越大，越偏向<span style="color: red;">自由</span>（而非威权）<br>社会值越大，越偏向<span style="color: red;">传统</span>（而非进步）</h4>
 <table style="font-size: 200%; text-align: center;">
     <caption style="font-size: 40px; font-weight: 700;">内测结果</caption>
