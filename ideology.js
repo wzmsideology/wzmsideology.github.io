@@ -783,7 +783,7 @@ ideology = [
 }
 },
 {
-"name": "自由派",
+"name": "自由主义",
 "stats": {
         "econ": 54.5,
         "dipl": 46.1,
